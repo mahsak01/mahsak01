@@ -15,24 +15,24 @@
 ## Activity
 
 <p align="center"> 
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahsak01&theme=merko&hide_border=true">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahsak01&theme=nord&hide_border=true">
 </p> 
 
 
 ## GitHub Stats
 
 <p align="center"> 
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=mahsak01&theme=merko&hide_border=true&hide_title=true">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mahsak01&theme=nord&hide_border=true&hide_title=true">
 </p>
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=mahsak01&theme=merko&hide_border=true&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahsak01&theme=nord&hide_border=true&hide_title=true">
 </p> 
 
 ## Most Used Languages
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsak01&theme=merko&hide_border=true&hide_title=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsak01&theme=nord&hide_border=true&hide_title=true&layout=compact">
 </p>
   
   <!--
